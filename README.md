@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey 👋
-
 Software engineer, focussed on full-stack Typescript & Node web application development.
 
 
